@@ -1,0 +1,5 @@
+app_url: https://www.google.com/
+google_LandingPageTitle: Google
+credentials:
+  email: xyz@gmail.com
+  password: Password@123

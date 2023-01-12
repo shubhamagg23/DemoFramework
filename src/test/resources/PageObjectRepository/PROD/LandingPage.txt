@@ -1,0 +1,9 @@
+#LandingPage
+elementName:					locatorType:					locatorValue
+
+lnk_SignIn:						xpath:							//a[text()="Sign In"]
+lnk_Home:						linktext:						Home
+lnk_Menu:						xpath:							//*[@id="menu-primary-navigation"]/li/a[text()='${link text}']
+
+google_Logo:					css:							img[alt='Google']
+
